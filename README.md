@@ -1,4 +1,4 @@
-# 달우물 괴담회 v0.14
+# 달우물 괴담회 v0.17
 
 index.html, assets 폴더, 아이콘과 manifest.webmanifest를 저장소의 최상위에 올립니다.
 Settings → Pages → Deploy from a branch → main / (root) → Save.
